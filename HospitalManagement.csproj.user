@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Đồ án 1\HospitalManagement\DaKhoaHongNgoc\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="GUI\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmBacSi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmBenhNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmGiuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmKhamBenh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmNhapVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
